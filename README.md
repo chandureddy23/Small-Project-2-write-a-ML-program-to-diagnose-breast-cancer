@@ -31,6 +31,27 @@ Welcome to my GitHub profile! I'm a passionate MS Health Informatics student at 
 
 ### Mortality Prediction for ICU Patients
 - Built machine learning models to predict mortality in ICU settings.
+  
+### Retina Damage Classification using Transfer Learning
+- Implemented a VGG-19 architecture with transfer learning for retinal disease classification
+
+### Melanoma Detection Using SIIM-ISIC Dataset
+- Applied deep learning techniques for automated melanoma detection.
+- Utilized the SIIM-ISIC dataset to train and validate the model.
+  
+### Small Project: ML Program to Diagnose Breast Cancer
+- Created a machine learning program for breast cancer diagnosis.
+- Implemented using Jupyter Notebook for interactive development and analysis.
+  
+### Face Recognition-based Login System
+- Developed a login system using facial recognition technology.
+- Integrated computer vision techniques for secure user authentication.
+  
+### Neuwave Wellness
+- Worked on a website building project related to Information Governance and Risk Management.
+
+### AI-first Large Project
+- Engaged in a comprehensive AI project, likely involving multiple machine learning techniques for heart stroke prediction.
 
 ## 📬 Contact Me
 - 📧 **Email**: nchandu2023@gmail.com
